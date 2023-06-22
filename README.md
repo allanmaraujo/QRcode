@@ -4,7 +4,7 @@
 ![qrcode](https://github.com/allanmaraujo/QRcode/blob/main/qrcode.png)
 
 # Linguagens:
-- Html
+- HTML
 - CSS
 
 # Sobre Mim
